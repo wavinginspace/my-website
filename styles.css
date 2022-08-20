@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  list-style: none;
+  gap: 1rem;
+  padding: 0;
+}
+
+a {
+  color: blue;
+}
+
+pre {
+  margin: 2rem auto;
+  width: min-content;
+}
